@@ -103,7 +103,7 @@ function draw() {
   stand1.display();
   stand2.display();
   
-  fill(56,44,44);
+  //fill(56,44,44);
   block1.display();
   block2.display();
   block3.display();
